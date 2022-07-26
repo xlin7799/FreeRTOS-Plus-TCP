@@ -1,6 +1,7 @@
 {
   "name": "FreeRTOS-Plus-TCP",
   "releases": [
+    "10.4.43",
     "v1.2.11",
     "v1.1.11"
   ],
